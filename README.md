@@ -7,6 +7,7 @@ A free 3D muscle atlas for Android. Tap any muscle to see what it does, how to f
 No ads, no account, nothing leaves your phone. Russian and English.
 
 **Download:** the latest APK is on the [Releases](../../releases) page.
+**iPhone and any browser:** open [symofdes.github.io/myozen](https://symofdes.github.io/myozen/). On iPhone tap Share → Add to Home Screen to get it as an app.
 
 MyoZen is for learning and self-help. It is not a medical diagnosis.
 
@@ -23,6 +24,7 @@ I make it on my own, in my spare time. If it helped your neck, your back or your
 Без рекламы и регистрации, данные не покидают телефон. Русский и английский.
 
 **Скачать:** свежий APK на странице [Releases](../../releases).
+**iPhone и любой браузер:** открой [symofdes.github.io/myozen](https://symofdes.github.io/myozen/). На iPhone нажми «Поделиться» → «На экран „Домой“», и MyoZen будет как приложение.
 
 Приложение для обучения и самопомощи, а не для диагностики.
 
